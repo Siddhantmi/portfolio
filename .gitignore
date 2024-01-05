@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /prisma
-/public
+
 /src
 /.pnp
 /.next
