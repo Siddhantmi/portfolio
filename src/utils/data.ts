@@ -173,7 +173,7 @@ export const projects = [
   {
     title: 'FawFlix',
     imgUrl: fawflix,
-    projectLink: 'https://fawflix.vercel.app/',
+    projectLink: '#',
     codeLink: 'https://github.com/siddhantmi/',
     description: 'FawFlix is a netflix clone website with  movie streaming ',
     tags: ['MERN', 'React.js', 'Tailwind CSS'],
@@ -181,7 +181,7 @@ export const projects = [
   {
     title: 'GBDC',
     imgUrl: gbdc,
-    projectLink: 'https://gbdc.vercel.app/',
+    projectLink: '#',
     codeLink: 'https://github.com/siddhantmi/',
     description: 'GBDC is a blood donation web App with admin panel.',
     tags: ['Next.js', 'Node JS', 'React.js', 'Tailwind CSS', 'Landing Page'],
@@ -197,7 +197,7 @@ export const projects = [
   {
     title: 'Lranslate',
     imgUrl: lranslate,
-    projectLink: 'https://lranslate.vercel.app/',
+    projectLink: '#',
     codeLink: 'https://github.com/siddhantmi/',
     description: 'Lranslate is Google Translate clone made with Api',
     tags: ['React.js', 'API', 'Node JS', 'MongoDB', 'Redux'],
@@ -205,7 +205,7 @@ export const projects = [
   {
     title: 'Lovely Music',
     imgUrl: LovelyMusic,
-    projectLink: 'https://lovely-music.vercel.app/',
+    projectLink: '#',
     codeLink: 'https://github.com/siddhantmi/',
     description: 'Lovely Music is a music streaming website',
     tags: ['React.js', 'Tailwind CSS', 'Redux', 'API'],
@@ -214,7 +214,7 @@ export const projects = [
     name: 'Sumz',
     title: 'Article Summarizer',
     imgUrl: sumz,
-    projectLink: 'https://sum-tau.vercel.app/',
+    projectLink: '#',
     codeLink: 'https://github.com/siddhantmi/',
     description: 'Sumz is Article summarizer made with Api',
     tags: ['React.js', 'API', 'Redux'],
